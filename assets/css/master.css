@@ -149,6 +149,7 @@ main .swiper-button-next {
   font-size: 25px;
   border-radius: 50%;
   transition: 0.5s;
+  z-index: 1;
   transform: translateX(-50%);
   background-color: var(--c-main);
 }
